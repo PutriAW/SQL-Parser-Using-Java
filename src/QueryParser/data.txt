@@ -1,0 +1,4 @@
+Buku;id_buku;judul;genre;pengarang;thn_terbit#
+Peminjaman;id_peminjaman;id_anggota;id_buku;jlh;tgl_pinjam;tgl_kembali#
+Anggota;id_anggota;nama_ang;jk_ang;ttl;no_hp#
+Pustakawan;id_pust;nama_pust;jk_pust;ttl;
